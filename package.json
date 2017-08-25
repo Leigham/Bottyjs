@@ -9,6 +9,7 @@
   "author": "www.twitch.tv/its_leigham",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.5.0",
     "autoinstall": "^0.3.1",
     "bufferutil": "^3.0.2",
     "common-tags": "^1.4.0",
