@@ -15,7 +15,7 @@ const twitchConnect = require('./functions/twitch.js');
 
 client.on('ready', () => {
   console.log('I am ready!');
-  console.log(client.guilds.channels)
+  //console.log(client.guilds.channels)
   twitchConnect.twitchConnect(client);
 
 });

@@ -3,7 +3,7 @@ const fs = require('fs');
 const discord = require('discord.js');
 
 function twitchConnect(client){
-	console.log('Launching twitch Api');
+	/*console.log('Launching twitch Api');
 	var guilds = client.guilds;
 	//console.log(guilds)
 	//console.log(guilds.array());
@@ -77,6 +77,7 @@ function twitchConnect(client){
 
 
 
+*/
 
 
 
@@ -87,8 +88,7 @@ function twitchConnect(client){
 
 
 
-
-	};
+	//};
 };
 
 

@@ -19,6 +19,7 @@
     "libsodium-wrappers": "^0.5.2",
     "npm-install-missing": "^0.1.4",
     "tmi.js": "^1.2.1",
+    "twitch-api": "^0.4.6",
     "utf-8-validate": "^3.0.3",
     "uws": "^8.14.1"
   },
